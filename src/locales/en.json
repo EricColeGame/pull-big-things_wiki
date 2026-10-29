@@ -12,8 +12,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Pull Big Things Wiki — Guide, Codes, Upgrades & Tips",
+      "description": "Explore Pull Big Things on Roblox with a beginner guide to training, arm upgrades, pulling objects for cash, collecting pets, and the current codes page."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
@@ -37,293 +37,293 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Pull Big Things Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with the core loop: train, upgrade your arms, pull objects, and collect pets."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Training and Upgrades",
+          "description": "Learn how training and arm upgrades fit into your goal of pulling heavier objects."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Earning Cash",
+          "description": "See how pulling heavier objects earns cash and what to look for as you progress."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Codes and Updates",
+          "description": "Check the codes page for its current status and where to look for future announcements."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Explore the Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Getting Started",
+        "Training",
+        "Arm Upgrades",
+        "Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Pull Big Things Guide",
+          "description": "An introduction to training, arm upgrades, pulling objects for cash, and collecting pets.",
+          "href": "/guide/pull-big-things-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Codes",
+          "title": "Pull Big Things Codes",
+          "description": "Read the current code status and where to check for updates.",
+          "href": "/codes/pull-big-things-codes"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Pull Big Things?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Pull Big Things is a Roblox game by Heavy Hit Games built around a simple goal: see how big an object you can pull. Train and upgrade your arms as you work toward heavier pulls.",
+        "Pulling heavier objects earns cash, and pets can help you along the way. Our guide introduces these core activities, while the codes page covers the current code status and future updates."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Heavy Hit Games"
         },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Core Activity",
+          "value": "Pull Objects"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Progression",
+          "value": "Train & Upgrade Arms"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Earnings",
+          "value": "Cash from Pulls"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Companions",
+          "value": "Pets"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Pull Big Things Wiki",
+      "description": "Browse the core gameplay loop, training, arm upgrades, object pulling, pets, code status, and ways to follow changes.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Pull Big Things Codes",
+          "description": "Check the current codes page and learn where to look for future code announcements.",
+          "href": "/codes/pull-big-things-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Codes",
+              "detail": "Read the current code status on the codes page."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "News",
+              "detail": "Check the official Roblox game details for announcements."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Redeem",
+              "detail": "Use only redemption steps shown in the game if codes are added."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Pull Big Things Beginner Guide",
+          "description": "Follow the game’s core activities from training to bigger pulls and pet collection.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Begin by training."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Explore arm upgrades as you progress."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Pull heavier objects to earn cash."
+            },
+            {
+              "label": "4",
+              "detail": "Collect pets to help you along the way."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Pull Big Things Upgrades Guide",
+          "description": "Learn where arm upgrades fit in the progression loop and what to review before choosing one.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Arms",
+              "detail": "Arm upgrades are part of your progression."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Training",
+              "detail": "Train as you work toward bigger pulls."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Choices",
+              "detail": "Review upgrade options in your current game session."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Pull Big Things Objects Guide",
+          "description": "See how heavier pulls connect to cash and the game’s main goal.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Pull",
+              "detail": "Try objects you can manage as you build strength."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Heavier",
+              "detail": "Work toward pulling heavier objects."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Cash",
+              "detail": "Heavier pulls earn cash."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Pull Big Things Strength Tips",
+          "description": "A quick topic map for the four core activities covered in the beginner guide.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Training is a core activity."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Upgrade your arms as you progress."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Pull heavier objects to earn cash."
+            },
+            {
+              "label": "C",
+              "detail": "Collect pets to help along the way."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Pull Big Things Gamepass Guide",
+          "description": "Review optional purchases visible on the Roblox game page or in your session before deciding what fits your play.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Store",
+              "detail": "Check the game page for current purchase options."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "In Game",
+              "detail": "Review any options shown in your session."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Basics",
+              "detail": "Training, pulling, and pets remain the guide’s core topics."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Pull Big Things Update Guide",
+          "description": "Find the game’s official page and return to the guide and codes page as new information appears.",
+          "href": "/codes/pull-big-things-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Game Page",
+              "detail": "Visit the official Roblox listing for game news."
+            },
+            {
+              "label": "Codes",
+              "detail": "Check the codes page for its latest status."
+            },
+            {
+              "label": "Guide",
+              "detail": "Return to the beginner guide for the core loop."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Pull Big Things Controls Guide",
+          "description": "Get oriented in your current session while learning the basic pulling loop.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Start",
+              "detail": "Use the prompts shown in your game session."
+            },
+            {
+              "label": "Train",
+              "detail": "Find the training activity shown in game."
+            },
+            {
+              "label": "Pull",
+              "detail": "Try pulling an object you can manage."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Pull Big Things FAQ",
+      "description": "Quick answers about the game’s core activities, cash, pets, and codes.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Pull Big Things?",
+          "answer": "Pull Big Things is a Roblox game by Heavy Hit Games. Train, upgrade your arms, pull heavier objects to earn cash, and collect pets."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What should I do first in Pull Big Things?",
+          "answer": "Start with training, explore arm upgrades, and try pulling objects you can manage. The beginner guide explains the core loop."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do you earn cash in Pull Big Things?",
+          "answer": "The official game description says you earn cash by pulling heavier objects."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Do pets help in Pull Big Things?",
+          "answer": "Yes. The official description says you can collect pets to help you along the way."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I find Pull Big Things codes?",
+          "answer": "Visit the codes page for its current status and links to the official game details."
         }
       ]
     },
