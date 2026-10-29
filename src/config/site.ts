@@ -6,7 +6,7 @@ export interface SiteConfig {
   description: string;
   url: string;
   supportEmail: string;
-  gameUrl?: string;
+  gameUrl: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,13 +25,9 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Codes & Gameplay Tips",
   description: "A fan-made guide to Pull Big Things on Roblox, with gameplay tips, updates and code status.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://pull-big-things.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://pull-big-things.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@pull-big-things.wiki",
   gameUrl: "https://www.roblox.com/games/124502105874366/",
-  heroVideoId: "R1mKfg4vDUU", // Pull Big Things gameplay
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  heroVideoId: "",
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };

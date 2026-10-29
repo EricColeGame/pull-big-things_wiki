@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Pull Big Things Wiki",
+    "shortName": "Pull Big Things",
+    "tagline": "Roblox Gameplay Guides, Codes & Tips",
+    "description": "Independent Pull Big Things wiki for Roblox players, with verified gameplay basics, progression guides and code status.",
+    "legalNotice": "Independent Pull Big Things fan wiki. Not affiliated with Heavy Hit Games or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -31,18 +31,18 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "Pull Big Things Wiki",
+      "description": "Train, upgrade your arms, pull heavier objects to earn cash, and collect pets in Pull Big Things on Roblox. Browse guides and check the latest code status.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Train Your Strength",
+        "Upgrade Your Arms",
+        "Pull Heavier Objects",
+        "Collect Pets"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Browse Guides",
+      "secondaryCta": "Play on Roblox",
+      "tertiaryCta": "Check Codes",
+      "videoLabel": "Gameplay video"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,9 +342,9 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Explore Pull Big Things",
+      "description": "Browse gameplay guides and check code status, then jump into the official Roblox game.",
+      "primary": "Browse Guides",
       "secondary": "Play on Roblox"
     }
   },
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Pull Big Things Wiki",
+    "about": "Pull Big Things Wiki is an independent fan-built guide hub covering gameplay, progression, codes and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Pull Big Things Wiki. Independent fan site; not affiliated with Heavy Hit Games or Roblox.",
+    "description": "Community gameplay guides, progression tips and code updates for Pull Big Things on Roblox.",
+    "playGame": "Play Pull Big Things on Roblox",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Community Tools",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
