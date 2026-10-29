@@ -1,1 +1,384 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Pull Big Things",
+    "shortName": "Pull Big Things",
+    "tagline": "Guías de juego, códigos y consejos de Roblox",
+    "description": "Wiki independiente de Pull Big Things para jugadores de Roblox, con información básica verificada sobre el juego, guías de progresión y el estado de los códigos.",
+    "legalNotice": "Wiki independiente de fans de Pull Big Things. No está afiliada a Heavy Hit Games ni a Roblox."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "codes": "Códigos"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Pull Big Things",
+    "overviewDescription": "Aprende los fundamentos del entrenamiento, las mejoras de brazos, cómo arrastrar objetos para ganar dinero y cómo coleccionar mascotas en Pull Big Things."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Pull Big Things",
+    "overviewDescription": "Consulta el estado actual de los códigos de Pull Big Things y dónde buscar novedades."
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Pull Big Things — Guía, códigos, mejoras y consejos",
+      "description": "Descubre Pull Big Things en Roblox con una guía para principiantes sobre entrenamiento, mejoras de brazos, cómo arrastrar objetos para ganar dinero, colección de mascotas y la página actual de códigos."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitaria creada por fans",
+      "title": "Wiki de Pull Big Things",
+      "description": "Entrena, mejora tus brazos, arrastra objetos más pesados para ganar dinero y colecciona mascotas en Pull Big Things en Roblox. Explora las guías y consulta el estado más reciente de los códigos.",
+      "stats": [
+        "Entrena tu fuerza",
+        "Mejora tus brazos",
+        "Arrastra objetos más pesados",
+        "Colecciona mascotas"
+      ],
+      "primaryCta": "Explorar guías",
+      "secondaryCta": "Jugar en Roblox",
+      "tertiaryCta": "Consultar códigos",
+      "videoLabel": "Video del juego"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Pull Big Things",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza por el ciclo principal: entrena, mejora tus brazos, arrastra objetos y colecciona mascotas."
+        },
+        {
+          "number": "2",
+          "title": "Entrenamiento y mejoras",
+          "description": "Aprende cómo el entrenamiento y las mejoras de brazos te ayudan a alcanzar tu objetivo de arrastrar objetos más pesados."
+        },
+        {
+          "number": "3",
+          "title": "Ganar dinero",
+          "description": "Descubre cómo ganar dinero al arrastrar objetos más pesados y en qué fijarte mientras progresas."
+        },
+        {
+          "number": "4",
+          "title": "Códigos y novedades",
+          "description": "Consulta la página de códigos para conocer su estado actual y dónde buscar futuros anuncios."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Explora las guías",
+      "quickLinks": [
+        "Primeros pasos",
+        "Entrenamiento",
+        "Mejoras de brazos",
+        "Códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiantes",
+          "title": "Guía de Pull Big Things",
+          "description": "Una introducción al entrenamiento, las mejoras de brazos, cómo arrastrar objetos para ganar dinero y cómo coleccionar mascotas.",
+          "href": "/guide/pull-big-things-guide"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos de Pull Big Things",
+          "description": "Consulta el estado actual de los códigos y dónde buscar novedades.",
+          "href": "/codes/pull-big-things-codes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Pull Big Things?",
+      "paragraphs": [
+        "Pull Big Things es un juego de Roblox creado por Heavy Hit Games que gira en torno a un objetivo sencillo: descubrir qué tan grande puede ser el objeto que logras arrastrar. Entrena y mejora tus brazos mientras te preparas para arrastrar objetos más pesados.",
+        "Arrastrar objetos más pesados te permite ganar dinero, y las mascotas pueden ayudarte en el camino. Nuestra guía presenta estas actividades principales, mientras que la página de códigos cubre su estado actual y las futuras novedades."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Heavy Hit Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Actividad principal",
+          "value": "Arrastrar objetos"
+        },
+        {
+          "label": "Progresión",
+          "value": "Entrenar y mejorar los brazos"
+        },
+        {
+          "label": "Ganancias",
+          "value": "Dinero por arrastrar objetos"
+        },
+        {
+          "label": "Compañeros",
+          "value": "Mascotas"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Pull Big Things",
+      "description": "Explora el ciclo principal del juego, el entrenamiento, las mejoras de brazos, cómo arrastrar objetos, las mascotas, el estado de los códigos y las formas de seguir las novedades.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Pull Big Things",
+          "description": "Consulta la página actual de códigos y descubre dónde buscar futuros anuncios de códigos.",
+          "href": "/codes/pull-big-things-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Códigos",
+              "detail": "Consulta el estado actual de los códigos en la página de códigos."
+            },
+            {
+              "label": "Noticias",
+              "detail": "Consulta la información oficial del juego en Roblox para ver los anuncios."
+            },
+            {
+              "label": "Canjear",
+              "detail": "Si se añaden códigos, sigue únicamente los pasos de canje que aparezcan en el juego."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Pull Big Things",
+          "description": "Sigue las actividades principales del juego, desde el entrenamiento hasta arrastrar objetos más grandes y coleccionar mascotas.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza entrenando."
+            },
+            {
+              "label": "2",
+              "detail": "Explora las mejoras de brazos mientras progresas."
+            },
+            {
+              "label": "3",
+              "detail": "Arrastra objetos más pesados para ganar dinero."
+            },
+            {
+              "label": "4",
+              "detail": "Colecciona mascotas para que te ayuden en el camino."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de mejoras de Pull Big Things",
+          "description": "Aprende qué papel tienen las mejoras de brazos en la progresión y qué revisar antes de elegir una.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Brazos",
+              "detail": "Las mejoras de brazos forman parte de tu progresión."
+            },
+            {
+              "label": "Entrenamiento",
+              "detail": "Entrena mientras te preparas para arrastrar objetos más grandes."
+            },
+            {
+              "label": "Opciones",
+              "detail": "Revisa las opciones de mejora en tu sesión actual de juego."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de objetos de Pull Big Things",
+          "description": "Descubre cómo arrastrar objetos más pesados se relaciona con ganar dinero y con el objetivo principal del juego.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Arrastrar",
+              "detail": "Prueba con objetos que puedas arrastrar mientras aumentas tu fuerza."
+            },
+            {
+              "label": "Más pesados",
+              "detail": "Prepárate para arrastrar objetos más pesados."
+            },
+            {
+              "label": "Dinero",
+              "detail": "Arrastrar objetos más pesados te permite ganar dinero."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Consejos de fuerza para Pull Big Things",
+          "description": "Un resumen rápido de las cuatro actividades principales que cubre la guía para principiantes.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "El entrenamiento es una actividad principal."
+            },
+            {
+              "label": "A",
+              "detail": "Mejora tus brazos mientras progresas."
+            },
+            {
+              "label": "B",
+              "detail": "Arrastra objetos más pesados para ganar dinero."
+            },
+            {
+              "label": "C",
+              "detail": "Colecciona mascotas para que te ayuden en el camino."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de pases de juego de Pull Big Things",
+          "description": "Revisa las compras opcionales que aparecen en la página del juego en Roblox o en tu sesión antes de decidir cuáles se ajustan a tu forma de jugar.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tienda",
+              "detail": "Consulta las opciones de compra actuales en la página del juego."
+            },
+            {
+              "label": "En el juego",
+              "detail": "Revisa las opciones que aparezcan en tu sesión."
+            },
+            {
+              "label": "Fundamentos",
+              "detail": "El entrenamiento, arrastrar objetos y las mascotas siguen siendo los temas principales de la guía."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de novedades de Pull Big Things",
+          "description": "Encuentra la página oficial del juego y vuelve a la guía y a la página de códigos cuando aparezca información nueva.",
+          "href": "/codes/pull-big-things-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Página del juego",
+              "detail": "Visita la página oficial en Roblox para ver las noticias del juego."
+            },
+            {
+              "label": "Códigos",
+              "detail": "Consulta la página de códigos para conocer su estado más reciente."
+            },
+            {
+              "label": "Guía",
+              "detail": "Vuelve a la guía para principiantes para repasar el ciclo principal."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de controles de Pull Big Things",
+          "description": "Oriéntate en tu sesión actual mientras aprendes el ciclo básico de arrastrar objetos.",
+          "href": "/guide/pull-big-things-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Empezar",
+              "detail": "Sigue las indicaciones que aparezcan en tu sesión de juego."
+            },
+            {
+              "label": "Entrenar",
+              "detail": "Busca la actividad de entrenamiento que aparece en el juego."
+            },
+            {
+              "label": "Arrastrar",
+              "detail": "Intenta arrastrar un objeto que puedas manejar."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Pull Big Things",
+      "description": "Respuestas rápidas sobre las actividades principales del juego, el dinero, las mascotas y los códigos.",
+      "items": [
+        {
+          "question": "¿Qué es Pull Big Things?",
+          "answer": "Pull Big Things es un juego de Roblox creado por Heavy Hit Games. Entrena, mejora tus brazos, arrastra objetos más pesados para ganar dinero y colecciona mascotas."
+        },
+        {
+          "question": "¿Qué debo hacer primero en Pull Big Things?",
+          "answer": "Empieza entrenando, explora las mejoras de brazos e intenta arrastrar objetos que puedas manejar. La guía para principiantes explica el ciclo principal."
+        },
+        {
+          "question": "¿Cómo se gana dinero en Pull Big Things?",
+          "answer": "La descripción oficial del juego indica que ganas dinero al arrastrar objetos más pesados."
+        },
+        {
+          "question": "¿Ayudan las mascotas en Pull Big Things?",
+          "answer": "Sí. La descripción oficial indica que puedes coleccionar mascotas para que te ayuden en el camino."
+        },
+        {
+          "question": "¿Dónde puedo encontrar códigos de Pull Big Things?",
+          "answer": "Visita la página de códigos para consultar su estado actual y los enlaces a la información oficial del juego."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Explora Pull Big Things",
+      "description": "Explora las guías de juego y consulta el estado de los códigos; después, entra en el juego oficial en Roblox.",
+      "primary": "Explorar guías",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido multimedia oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Pull Big Things",
+    "about": "La wiki de Pull Big Things es un centro independiente de guías creado por fans que cubre el juego, la progresión, los códigos y los conocimientos esenciales tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Información legal",
+    "copyright": "2026 Wiki de Pull Big Things. Sitio independiente de fans; no está afiliado a Heavy Hit Games ni a Roblox.",
+    "description": "Guías comunitarias de juego, consejos de progresión y novedades sobre códigos de Pull Big Things en Roblox.",
+    "playGame": "Jugar a Pull Big Things en Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Herramientas de la comunidad",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de carreras",
+    "bossGuides": "Guías de jefes",
+    "buildGuide": "Guía de configuraciones",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
