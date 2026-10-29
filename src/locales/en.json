@@ -8,7 +8,17 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes"
+  },
+  "guide": {
+    "overviewTitle": "Pull Big Things Guide",
+    "overviewDescription": "Learn the basics of training, arm upgrades, pulling objects for cash, and collecting pets in Pull Big Things."
+  },
+  "codes": {
+    "overviewTitle": "Pull Big Things Codes",
+    "overviewDescription": "Check the current status of Pull Big Things codes and where to look for updates."
   },
   "home": {
     "meta": {
