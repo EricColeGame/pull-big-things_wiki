@@ -28,6 +28,6 @@ export const siteConfig: SiteConfig = {
   supportEmail: "support@pull-big-things.wiki",
   gameUrl: "https://www.roblox.com/games/124502105874366/",
   heroVideoId: "",
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
